@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title> Main page </title>
+  </head>
+  <body>
+    <h3> First application </h3>
+     <form action="/currencystat" method = "post">
+     <h3> currency: <input type = "cur" name = "currency"><h3><br>
+     <h3> start date(yyyy-mm-dd): <input type = "start" name = "start_date"><h3><br>
+     <h3> end date(yyyy-mm-dd): <input type = "end" name = "end_date"><h3><br>
+     <button type = "submit" > submit
+
+     </form>
+  </body>
+</html>
+
