@@ -20,7 +20,7 @@ python3 -m venv flask_venv
 ```
 source flask_venv/bin/activate
 ```
-4.Now, switch to your terminal. From your app directory (the same directory that has your requirements.txt) run the following:
+4. Now, switch to your terminal. From your app directory (the same directory that has your requirements.txt) run the following:
 ```
 python -m pip install -U -r requirements.txt
 ```
