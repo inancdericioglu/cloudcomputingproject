@@ -35,6 +35,7 @@ python app.py
 4. Access the page and enter information.
 5. Currency:Euro
 6. Enter start date(yyyy-mm-dd) and end date(yyyy-mm-dd).
+7. Click the submit button.
 
 ###### Note:
 - The application just provides Euro as currency.
