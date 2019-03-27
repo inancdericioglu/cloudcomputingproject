@@ -20,7 +20,7 @@ python3 -m venv flask_venv
 ```
 source flask_venv/bin/activate
 ```
-4.Now, switch to your terminal. From your app directory (the same directory thathas your requirements.txt) run the following:
+4.Now, switch to your terminal. From your app directory (the same directory that has your requirements.txt) run the following:
 ```
 python -m pip install -U -r requirements.txt
 ```
@@ -30,7 +30,7 @@ python -m pip install -U -r requirements.txt
 ```
 python app.py
 ```
-2. Open our browser and navigate to localhost:8080
+2. Open your browser and navigate to localhost:8080
 3. Enter user name:cloudcomputing and password:ecs781
 4. Access the page and enter information.
 5. Currency:Euro(it just provides Euro for now)
