@@ -33,11 +33,12 @@ python app.py
 2. Open your browser and navigate to localhost:8080
 3. Enter user name:cloudcomputing and password:ecs781
 4. Access the page and enter information.
-5. Currency:Euro(it just provides Euro for now)
+5. Currency:Euro
 6. Enter start date((yyyy-mm-dd) and end date((yyyy-mm-dd).
 
 ###### Note:
-The year must be the last one year from today and must be a maximum of 10 days between the start and end dates.
+- The application just provides Euro as currency.
+- The year must be the last one year from today and must be a maximum of 10 days between the start and end dates.
 
 
 
