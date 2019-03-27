@@ -34,7 +34,7 @@ python app.py
 3. Enter user name:cloudcomputing and password:ecs781
 4. Access the page and enter information.
 5. Currency:Euro
-6. Enter start date((yyyy-mm-dd) and end date((yyyy-mm-dd).
+6. Enter start date(yyyy-mm-dd) and end date(yyyy-mm-dd).
 
 ###### Note:
 - The application just provides Euro as currency.
